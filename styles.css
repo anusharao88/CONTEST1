@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: chocolate;
+}
+
+#quiz {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#question-container {
+    margin-bottom: 20px;
+}
+
+#result {
+    display: none;
+    margin-top: 20px;
+}
